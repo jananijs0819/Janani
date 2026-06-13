@@ -73,4 +73,72 @@ h2{
     background: rgba(255,255,255,0.15);
     border: 1px solid rgba(255,255,255,0.2);
     backdrop-filter: blur(15px);
+}                                         
+/* NAVIGATION BIG */
+nav{
+    text-align:center;
+    padding:15px;
+}
+
+nav a{
+    font-size:22px;
+    font-weight:bold;
+    margin:15px;
+    text-decoration:none;
+    color:white;
+}
+
+/* NAME BIG */
+header h1{
+    font-size:60px;
+    text-align:center;
+    color:white;
+    text-shadow:0 0 10px #00f2fe;
+}
+
+/* SUBHEADING BIG */
+header p{
+    font-size:26px;
+    letter-spacing:3px;
+    text-align:center;
+    color:white;
+}
+
+/* PROFILE IMAGE */
+.profile-container{
+    text-align:center;
+    margin:20px 0;
+}
+
+.profile-img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid white;
+    box-shadow:0 0 25px #00f2fe;
+}
+
+/* SOCIAL BUTTONS */
+.social-buttons{
+    text-align:center;
+    margin-top:20px;
+}
+
+.social-buttons a{
+    display:inline-block;
+    padding:10px 20px;
+    margin:10px;
+    border-radius:25px;
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+}
+
+.github{
+    background:#333;
+}
+
+.linkedin{
+    background:#0077b5;
 }
