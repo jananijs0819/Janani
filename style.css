@@ -1,9 +1,12 @@
-/* ABOUT */
+/* ABOUT ME */
 #about{
-    background: linear-gradient(135deg,#1e3c72,#2a5298);
-    border-left: 6px solid #00f2fe;
-    border-radius: 15px;
-    margin-bottom: 20px;
+background: linear-gradient(135deg,#00C9FF,#92FE9D);
+color:#222;
+border-left:6px solid #ffffff;
+border-radius:15px;
+margin-bottom:20px;
+padding:30px;
+box-shadow:0 8px 20px rgba(0,0,0,0.2);
 }
 
 /* EDUCATION */
@@ -13,14 +16,17 @@
     border-radius: 15px;
     margin-bottom: 20px;
 }
-
 /* SKILLS */
 #skills{
-    background: linear-gradient(135deg,#42275a,#734b6d);
-    border-left: 6px solid #ff6ec4;
-    border-radius: 15px;
-    margin-bottom: 20px;
+background: linear-gradient(135deg,#f6d365,#fda085);
+color:#222;
+border-left:6px solid #ffffff;
+border-radius:15px;
+margin-bottom:20px;
+padding:30px;
+box-shadow:0 8px 20px rgba(0,0,0,0.2);
 }
+
 
 /* PROJECTS */
 #projects{
