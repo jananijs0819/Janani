@@ -142,3 +142,10 @@ header p{
 .linkedin{
     background:#0077b5;
 }
+h2{
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 20px;
+    display: block;
+}
